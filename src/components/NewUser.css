@@ -1,0 +1,23 @@
+.main{
+    width: 500px;
+    height: 140px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+    
+}
+.row{
+    display: flex;
+}
+label{
+    margin-right: 10px;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100px;
+}
+.row2{
+margin-right: 21px;
+}
